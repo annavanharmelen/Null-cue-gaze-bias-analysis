@@ -16,7 +16,7 @@ To make sure the scripts run correctly, open the getSubjParam_AnnaVidi1.m file t
 - Change the code, so this function can find the data corresponding to each participant.
 
 ## Running
-The analysis runs in parts, some of which are dependent on each other.
+The analysis runs in multiple parts, some of which are dependent on each other.
 
 All main behavioural data is analysed in AnnaVidi1_get_behaviour_230418.m. Some extra behavioural data is analysed in AnnaVidi1_extra_behavioural_data.m. If you have additional questionnaire data it is loaded in and analysed in AnnaVidi1_qualtrics_data.m.
 
